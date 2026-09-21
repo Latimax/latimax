@@ -88,7 +88,7 @@ A secure Laravel full-stack platform designed to automate university grade publi
 
 ## 🔬 Research
 
-My research interests focus on responsible technology adoption, artificial intelligence, and the impact of emerging technologies in education.
+My research interests focus on Deep Learning & Multimodal Data Integration for Automated Ischemic Heart Disease (IHD) Detection
 
 📄 **Publication**
 
@@ -133,7 +133,7 @@ Experience includes:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Latimax&show_icons=true&theme=tokyonight" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Latimax&langs_count=4&theme=light_github" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Latimax&theme=tokyonight" />
 
